@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vriddhi Tangri</h1>
 <h3 align="center">Tech freak, Borderline geek.</h3>
 
-<img align="right" alt="Coding Girl" width="400px" src="![image](https://github.com/vriddhitangri/vriddhitangri/assets/157511340/e089335a-9f1b-4028-875b-f7dc7878cfcc)">
+<img align="right" alt="Coding Girl" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vriddhitangri&label=Profile%20views&color=0e75b6&style=flat" alt="vriddhitangri" /> </p>
 
