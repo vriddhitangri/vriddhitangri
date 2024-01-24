@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vriddhitangri&label=Profile%20views&color=0e75b6&style=flat" alt="vriddhitangri" /> </p>
 
-- 🔭 I’m currently working on **API Integration**
 
 - 🌱 I’m currently learning **Springboot, Vert.x, kubernetes, microservices, RESTAPIs**
 
