@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/whataweirdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whataweirdo" height="30" width="40" /></a>
+<a href="https://twitter.com/VriddhiWannaEat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whataweirdo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vriddhi tangri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vriddhi tangri" height="30" width="40" /></a>
 <a href="https://fb.com/vriddhi tangri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vriddhi tangri" height="30" width="40" /></a>
 <a href="https://instagram.com/vriddhiisaweirdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vriddhiisaweirdo" height="30" width="40" /></a>
