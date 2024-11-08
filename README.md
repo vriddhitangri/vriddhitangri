@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vriddhitangri18@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF6WrN7P0U/Gr1AxpyE-lJJlErKgEuN0g/edit?utm_content=DAF6WrN7P0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF6WrN7P0U/Gr1AxpyE-lJJlErKgEuN0g/edit?utm_content=DAF6WrN7P0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [[https://www.canva.com/design/DAF6WrN7P0U/Gr1AxpyE-lJJlErKgEuN0g/edit?utm_content=DAF6WrN7P0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1nOCA6Iu90eXcXp7tc57brTfLobuMPcfk/view?usp=sharing)]([https://www.canva.com/design/DAF6WrN7P0U/Gr1AxpyE-lJJlErKgEuN0g/edit?utm_content=DAF6WrN7P0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1nOCA6Iu90eXcXp7tc57brTfLobuMPcfk/view?usp=sharing))
 
 - ⚡ Fun fact **I dream to be an entrepreneur by day, and a comedian by evening.**
 
