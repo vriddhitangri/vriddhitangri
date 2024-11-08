@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vriddhitangri&label=Profile%20views&color=0e75b6&style=flat" alt="vriddhitangri" /> </p>
 
 
-- 🌱 I’m currently learning **Springboot, Vert.x, kubernetes, microservices, RESTAPIs**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, Quantum Computing**
 
-- 💬 Ask me about **Quantum Computing, AR/VR, Websites, Flutter, Competitive Coding**
+- 💬 Ask me about **ML, DL, AI, Quantum Computing, AR/VR, Websites, Competitive Coding**
 
 - 📫 How to reach me **vriddhitangri18@gmail.com**
 
